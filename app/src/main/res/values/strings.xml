@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LamGiaoDienLoginFacebook</string>
+    <string name="username">Email hoặc số điện thoại</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="signup">Đăng ký Facebook</string>
+    <string name="help">Bạn cần trợ giúp?</string>
+</resources>
